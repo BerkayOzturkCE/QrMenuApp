@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886735533938",
+    "project_id": "stajapp-e6170",
+    "storage_bucket": "stajapp-e6170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886735533938:android:315cc0dfcea5f7180d4feb",
+        "android_client_info": {
+          "package_name": "com.example.staj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886735533938-5d9fgep2l4sj9ilmt5qof4p1ckrt7191.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staj",
+            "certificate_hash": "d8aa596938dd443ff5a9a8cd9c2712de85fbd740"
+          }
+        },
+        {
+          "client_id": "886735533938-2okh2mkoecorhdkugnibe3nohhmjtumj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNLG1J37jyprmPQZ-pifSbVqoHugtN58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886735533938-2okh2mkoecorhdkugnibe3nohhmjtumj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
